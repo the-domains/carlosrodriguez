@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[CarlosRodriguez]]></title>
+        <description><![CDATA[CarlosRodriguez]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 01 May 2016 18:11:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Me interasa el Big Data... el almacenamiento de grandes cantidades de datos y los procedimientos para encontrar patrones repetitivos dentro de esos datos.</p>]]></description>
+            <link>undefinedme-interasa-el-big-data-el-almacenamiento-de-grandes-cant/index.html</link>
+            <guid isPermaLink="false">51773e46-3bad-415b-82c9-6afc3380c49b</guid>
+            <pubDate>Sun, 01 May 2016 18:11:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
