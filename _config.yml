@@ -1,0 +1,28 @@
+name: CarlosRodriguez
+favicon: null
+layout_spectrum: 0.6492085363715887
+typography_spectrum: 0.20283857337199152
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.2951622772961855
+  lightness: 0.6239609457552433
+  saturation: 0.8481964522507042
+  rhythmicContrast: 0.04290360561572015
+purpose: []
