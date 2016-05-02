@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[CarlosRodriguez]]></title>
         <description><![CDATA[CarlosRodriguez]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/carlosrodriguez/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 01 May 2016 18:11:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 02 May 2016 08:02:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/carlosrodriguez/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Me interasa el Big Data... el almacenamiento de grandes cantidades de datos y los procedimientos para encontrar patrones repetitivos dentro de esos datos.</p>]]></description>
-            <link>undefinedme-interasa-el-big-data-el-almacenamiento-de-grandes-cant/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f73a0e94-595b-4faa-b80d-9dbe3593ffe7.jpg">]]></description>
+            <link>https://thegrid.ai/carlosrodriguez/me-interasa-el-big-data-el-almacenamiento-de-grandes-cant/index.html</link>
             <guid isPermaLink="false">51773e46-3bad-415b-82c9-6afc3380c49b</guid>
-            <pubDate>Sun, 01 May 2016 18:11:27 GMT</pubDate>
+            <pubDate>Mon, 02 May 2016 08:02:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
